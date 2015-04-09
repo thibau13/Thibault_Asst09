@@ -1,4 +1,6 @@
 ScavengerHunt::Application.routes.draw do
+  resources :rosters
+
   resources :participants
 
   resources :locations
