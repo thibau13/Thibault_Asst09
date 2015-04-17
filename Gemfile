@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#Use rqrcode
+gem 'rqrcode', '~> 0.4.2'
