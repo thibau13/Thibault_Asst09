@@ -10,6 +10,7 @@ class RostersController < ApplicationController
   # GET /rosters/1
   # GET /rosters/1.json
   def show
+   
   end
 
   # GET /rosters/new

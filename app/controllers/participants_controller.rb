@@ -10,6 +10,7 @@ class ParticipantsController < ApplicationController
   # GET /participants/1
   # GET /participants/1.json
   def show
+    
   end
 
   # GET /participants/new
