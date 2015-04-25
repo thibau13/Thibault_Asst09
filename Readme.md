@@ -1,4 +1,4 @@
-Kyle Thibault
+Kyle Thibault,
 CS270,
 04-24-15,
 Assignment 09,
